@@ -42,6 +42,3 @@ except Exception as e:
 
 finally:
     a.close()
-
-
-
